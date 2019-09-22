@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eehiongohb.chain76.org/sitemap.xml
